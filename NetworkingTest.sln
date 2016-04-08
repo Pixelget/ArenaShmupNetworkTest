@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingTest.CSharp", "NetworkingTest.CSharp.csproj", "{4AF252EF-07EB-4656-00B1-A792BE412ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingTest.CSharp.Editor", "NetworkingTest.CSharp.Editor.csproj", "{4FE6F10A-687A-9A39-F95A-B8BCF846B346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF252EF-07EB-4656-00B1-A792BE412ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF252EF-07EB-4656-00B1-A792BE412ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF252EF-07EB-4656-00B1-A792BE412ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF252EF-07EB-4656-00B1-A792BE412ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE6F10A-687A-9A39-F95A-B8BCF846B346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE6F10A-687A-9A39-F95A-B8BCF846B346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE6F10A-687A-9A39-F95A-B8BCF846B346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE6F10A-687A-9A39-F95A-B8BCF846B346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
